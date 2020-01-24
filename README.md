@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-AGPL3.0-blue.svg)![Version](https://img.shields.io/badge/mariOS-V1-green.svg)
+![License](https://img.shields.io/badge/License-AGPL3.0-blue.svg)![Version](https://img.shields.io/badge/N2OS-V1-green.svg)
 
 N2OS
 =====
